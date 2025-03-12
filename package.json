@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://abhinav-mohanan.github.io/Todo-app-React/",
+  "homepage": "https://Abhinav-mohanan.github.io/Todo-app-React",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
